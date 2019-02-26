@@ -1,0 +1,13 @@
+*.iml
+.gradle
+Music/local.properties
+Music/.idea/caches
+/.idea/libraries
+Music/.idea/modules.xml
+Music/.idea/workspace.xml
+Music/.idea/navEditor.xml
+Music/.idea/assetWizardSettings.xml
+.DS_Store
+Music/build
+Music/captures
+.externalNativeBuild
